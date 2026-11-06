@@ -1,0 +1,7 @@
+# Design skills are vendored locally, not part of the site
+.claude/skills/hallmark/
+.claude/skills/design-*/
+
+# OS
+.DS_Store
+Thumbs.db
